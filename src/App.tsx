@@ -7,7 +7,7 @@ const RESUME_DATA = {
   contact: {
     email: "jastinlamug26@gmail.com",
     phone: "0917 457 2531",
-    portfolio: "jstin.me",
+    portfolio: "kixkixx2.github.io/jstin.portfolio/",
   },
   experience: [
     {
@@ -26,7 +26,6 @@ const RESUME_DATA = {
       id: 1,
       name: "Queue Management System",
       date: "Feb 2026",
-      link: "https://queue-system-74c9f.web.app",
       role: "Solo Developer",
       stack: "React, TypeScript, Vite, Tailwind CSS, Lucide React, Firebase Firestore, Firebase Authentication, Firebase Hosting, React Router DOM",
       description: [
